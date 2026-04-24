@@ -1,7 +1,8 @@
 # Blink-it-sales-analysis-project
 Blinkit Sales Dashboard – Power BI Project
 
-📌 Project Overview
+#📌 Project Overview
+
 This project is a Power BI Dashboard created using Blinkit sales data.
 The dashboard helps analyze sales performance, outlet establishment trends, item categories, ratings, and outlet locations.
 
